@@ -1,0 +1,14 @@
+[
+{
+  "modid": "gamesense",
+  "name": "GameSense",
+  "description": "1.12.2 Anarchy Client.",
+  "version": "2.1.0",
+  "mcversion": "1.12.2",
+  "authorList": ["CyberTF2", "Go_Hoosiers", "A2H"],
+  "credits": "The Boolean God",
+  "logoFile": "assets/gamesense/textures/gamesense.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]
